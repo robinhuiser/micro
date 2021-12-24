@@ -1,4 +1,4 @@
-module helloworld
+module github.com/robinhuiser/micro/helloworld
 
 go 1.15
 
